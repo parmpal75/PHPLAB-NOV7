@@ -1,0 +1,10 @@
+<?php
+$ages => array(
+
+"johan" => 34,
+"mary" => 27,
+"bob" => 55 );
+echo $ages["bob"];
+array_pop($ages);
+print-r($ages);
+?>
