@@ -1,0 +1,16 @@
+<?php
+$ages = array(
+
+"john" => 34,
+
+"marry" => 27,
+"bob"  => 55,
+);
+echo $ages["bob"];
+array_pop($ages);
+print_r($ages);
+for{$i=0;$1<5;$i++){
+echo $i;
+}
+//var_dump($array);
+?>
